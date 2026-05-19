@@ -1,5 +1,5 @@
-### Olá Mundo🌎!  Eu sou o Lucas Neri, Seja Bem Vindo!
-💻 aprendendo programação front-end
+### Eu sou o Lucas Neri, Seja Bem Vindo!
+💻
 
 
 
